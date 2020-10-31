@@ -13,10 +13,6 @@
   <img align="left" alt=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=LManjitha&layout=compact" />
 
 </details>
-<br />
-<br />
-
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
