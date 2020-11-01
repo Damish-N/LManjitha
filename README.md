@@ -7,18 +7,16 @@
 
 </br>
 </br>
-<details>
-  <summary>:zap: Most used languages</summary>
 
-  <img align="left" alt=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=LManjitha&layout=compact" />
 
-</details>
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <img float="left" alt=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=LManjitha&layout=compact" />
 
-  <img align="left" alt="Manjitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LManjitha&show_icons=true&hide_border=true" />
 
-</details>
+
+
+  <img float="left" alt="Manjitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LManjitha&show_icons=true&hide_border=true" />
+
+
 
 
 [twitter]: https://twitter.com/L_Manjitha
